@@ -1,2 +1,0 @@
-# supermax
-COVID-19
